@@ -1,4 +1,4 @@
-# Web Scraping - Mission to Mars
+# Web Scraping - Mission to Mars :ringed_planet: :woman_astronaut:
 
 Built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a HTML page.
 
